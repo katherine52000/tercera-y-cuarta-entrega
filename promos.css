@@ -1,0 +1,34 @@
+
+
+body{background-color: black;
+color: white;}
+
+
+
+
+section{background-image: linear-gradient(to right,
+    black, grey);
+  grid-area: s1;
+  color: white;
+  font-size: 60px;
+  text-align:center ;
+  margin-top: 150PX;
+  font-style: italic;
+  
+  }
+  
+  
+  
+  
+  
+  article{background-image: linear-gradient(to right, grey, black);
+  grid-area: 1s;
+  font-size: 60PX;
+  color: rgb(252, 246, 250);
+  text-align:center ;
+  margin-top: 150px;
+  font-style: italic;
+  }
+  img{margin-left: 900px;
+height: 100%;
+}

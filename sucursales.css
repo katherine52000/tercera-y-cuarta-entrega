@@ -1,0 +1,14 @@
+body{background-color: black;
+color: white;
+margin: 2px;
+background-image: linear-gradient(rgb(14, 12, 13), rgb(116, 115, 115));
+}
+h1{font-size: 100px;
+text-align: center;
+margin-bottom:200px ;
+}
+h3{
+    font-size: 40px;
+}
+.mundo
+{background-position: center;}

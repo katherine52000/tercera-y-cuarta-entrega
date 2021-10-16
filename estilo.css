@@ -1,0 +1,18 @@
+body {
+  background-color: #333;
+  color: ;
+}
+
+/*# sourceMappingURL=estilo.css.map */
+
+.btn-primary{background-color: rgba(29, 28, 28, 0.514);
+border: 1px solid var(--color-light);
+border-radius: .25,;
+color: white
+padding: .7rem 2.5rem;
+font-size: 1.25rem;}
+
+li{font-size: 40px;}
+
+
+.lead-xl{font-size: 40px;}
